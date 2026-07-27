@@ -8,10 +8,9 @@ Your healthcare facility's commercial financial records, internal staff authoriz
 *   **Encryption at Rest:** All provider-side transactional logs are encrypted at rest using AES-256 standard protocols.
 *   **Anti-Competitive Isolation:** Your facility metrics are fully isolated. Heapiq explicitly guarantees that your internal metrics are never shared with competitor networks or used to compile public competitive hospital rankings without your transparent, written consent.
 
-### 2.Provider Security & VerificationIdentity Verification: To prevent fraud, we collect credentials based on entity type: personal IDs/medical council registrations for individual practitioners, and GST/CIN/clinical licenses for corporate entities
-
+### 2. Provider Security & VerificationIdentity Verification
+*   **To prevent fraud, we collect credentials based on entity type: personal IDs/medical council registrations for individual practitioners, and GST/CIN/clinical licenses for corporate entities
 *   **Data Protection: Verification documents and operational metrics are stored in secured, encrypted buckets with strict access controls.
-
 *   **Security & Privacy: Data is encrypted at rest (AES-256) and provider metrics are isolated, ensuring they are not shared with competitors or used for public rankings without consent.
 
 ### 3. Policy Modifications
