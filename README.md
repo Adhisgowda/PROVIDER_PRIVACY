@@ -6,7 +6,7 @@ This policy details how Heapiq protects sensitive operational, commercial, and f
 ### 1. Institutional Operational Security
 Your healthcare facility's commercial financial records, internal staff authorization codes, and pharmaceutical/clinical stock metrics are fiercely guarded by the Heapiq Operational Management Center.
 *   **Encryption at Rest:** All provider-side transactional logs are encrypted at rest using AES-256 standard protocols.
-*   **Anti-Competitive Isolation:** Your facility metrics are fully isolated. Heiofp explicitly guarantees that your internal metrics are never shared with competitor networks or used to compile public competitive hospital rankings without your transparent, written consent.
+*   **Anti-Competitive Isolation:** Your facility metrics are fully isolated. Heapiq explicitly guarantees that your internal metrics are never shared with competitor networks or used to compile public competitive hospital rankings without your transparent, written consent.
 
 ### 2. Policy Modifications
 Heapiq reserves the explicit right to alter, update, or expand this Provider Privacy Policy at any given time. New versions are active immediately upon placement at this URL.
